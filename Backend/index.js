@@ -16,7 +16,7 @@ const app = express();
 
 dotenv.config();
 
-app.use(cors({ origin: "https://padhakku-g5e7-or43czauu-prabhats-projects-c51b480a.vercel.app" }));
+app.use(cors({ origin: "*" }));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
