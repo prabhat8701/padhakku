@@ -1,5 +1,5 @@
 import axios from "axios";
-const backendURL = 'https://padhakku.vercel.app';
+const backendURL = 'https://mployee-backend.onrender.com';
 
 export const register = async (name, email, password, admin) => {
   try {
