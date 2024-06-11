@@ -1,5 +1,5 @@
 import axios from "axios";
-const backendURL = 'http://localhost:4000';
+const backendURL = 'https://padhakku.vercel.app';
 
 export const register = async (name, email, password, admin) => {
   try {
