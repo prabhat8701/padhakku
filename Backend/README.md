@@ -29,8 +29,8 @@ This project implements a basic Login/Signup page where users can register with 
 
 1. **Clone the repository:**
     ```bash
-    https://github.com/prabhat8701/padhakku.git
-    cd padhakku
+    Git clone https://github.com/prabhat8701/padhakku.git/Backend
+    cd Backend
     ```
 
 2. **Install dependencies:**
@@ -110,10 +110,6 @@ your-repository
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
